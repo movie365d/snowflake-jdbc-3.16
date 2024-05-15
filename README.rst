@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmovie365d%2Fsnowflake-jdbc-3.16.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmovie365d%2Fsnowflake-jdbc-3.16?ref=badge_shield)
+
 Snowflake JDBC Driver
 *********************
 
@@ -214,3 +216,6 @@ Support
 
 Feel free to file an issue or submit a PR here for general cases. For official support, contact Snowflake support at:
 https://community.snowflake.com/s/article/How-To-Submit-a-Support-Case-in-Snowflake-Lodge
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmovie365d%2Fsnowflake-jdbc-3.16.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmovie365d%2Fsnowflake-jdbc-3.16?ref=badge_large)
